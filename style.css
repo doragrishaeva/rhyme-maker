@@ -1,0 +1,92 @@
+/*header styles*/
+header {
+  background-color: #ef6b68;
+}
+
+#logo-block {
+    background: #1f233e;
+    width: 100%;
+}
+
+#logo {
+    margin-left: 47%;
+}
+
+/*main block styles*/
+main {
+  background-color: #ef6b68;
+  height: 100vh;
+  text-align: center;
+}
+
+#prompt {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+  color: #1f233e;
+  margin: 0;
+  text-transform: uppercase;
+  padding-top: 70px;
+}
+
+#input {
+  width: 50%;
+  height: 50px;
+  border-radius: 5px;
+  border: solid 1px #1f233e;
+  background-color: inherit;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #1f233e;
+}
+
+#submit {
+  width: 20%;
+  height: 50px;
+  border-radius: 5px;
+  border: solid 1px #1f233e;
+  background-color: #1f233e;
+  margin-top: 30px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #ef6b68;
+}
+
+#responseField {
+  height: 65vh;
+  background-color: #1f233e;
+  margin: auto;
+  margin-top: 120px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #ffffff;
+  overflow-wrap: break-word;
+  padding: 20px;
+}
+
+li {
+  text-align: center;
+  margin: 0 25% 0 25%;
+}
+
+#submit:hover {
+  color: #ffffff;
+  cursor: pointer;
+}
+
+#submit:active {
+  background-color: #1f233e;
+  cursor: pointer;
+  color: #ef6b68;
+}
+
+
+
