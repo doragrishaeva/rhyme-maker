@@ -1,6 +1,5 @@
 # rhyme-maker
-This is simple rhyme maker
-Static version without AJAX just design: https://doragrishaeva.github.io/rhyme-maker/
+This is simple rhyme maker: https://doragrishaeva.github.io/rhyme-maker/
 
 Technologies
 * HTML5, CSS3 (BEM)
