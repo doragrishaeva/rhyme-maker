@@ -7,8 +7,3 @@ Technologies
 * ES6
 * AJAX
 * REST API
-
-FULL USAGE:  
-git clone "https://github.com/doragrishaeva/rhyme-maker.git"  
-cd rhyme-maker   
-start index.html  
